@@ -49,7 +49,7 @@ You can't select disks as resources to the moved across regions. However, disks 
 
 ### How can I move my resources across subscription?
 
-Currently, Azure Resource Mover only supports move across regions within the same subscription. Move across subscriptions is not supported. 
+You Can Move Resources across subcriptions.
 
 However, on the Azure portal, Azure Resource mover has an entry point to enable the move across subscriptions. The capability to move across subscriptions is supported by Azure Resource Manager (ARM). [Learn more](../azure-resource-manager/management/move-resource-group-and-subscription.md).
 
